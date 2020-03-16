@@ -22,7 +22,7 @@
 }*/
 
 #include "args.h"
-#include "../serial/echo.h"
+#include "echo.h"
 
 args_struct(
     appc_args,
